@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Israel Pinheiro</h1>
+<h1 align="center">Hi, I'm Israel Pinheiro <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"</h1>
 <h3 align="center">Full Stack developer passionate about technology</h3>
 
 - :earth_americas: Fortaleza/Ceará/Brazil
