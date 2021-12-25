@@ -1,5 +1,5 @@
-<h1 style="text-align:center">Hi, I'm Israel Pinheiro</h1>
-<h3 style="text-align:center">Full Stack developer passionate about technology</h3>
+<h1 align="center">Hi, I'm Israel Pinheiro</h1>
+<h3 align="center">Full Stack developer passionate about technology</h3>
 
 - :computer: Currently working with **Laravel**, **NodeJS** and **React**
 
