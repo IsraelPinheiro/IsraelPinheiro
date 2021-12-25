@@ -71,8 +71,7 @@
     </a>
 </p>
 
-
-And here are some graphs for people who likes graphs: 
+<h3 style="text-align:left">And here are some graphs for people who likes graphs:</h3>
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=IsraelPinheiro&theme=react-dark)
 
