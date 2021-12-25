@@ -1,9 +1,15 @@
 <h1 align="center">Hi, I'm Israel Pinheiro</h1>
 <h3 align="center">Full Stack developer passionate about technology</h3>
 
+- :earth_americas: Fortaleza/Ceará/Brazil
+
 - :computer: Currently working with **Laravel**, **NodeJS** and **React**
 
 - :envelope: Contact me: **israel.pinheiro@live.com**
+
+- :rocket: SpaceX Fanboy and diehard space enthusiast
+
+
 
 <h3 style="text-align:left">Get in touch:</h3>
 <a href="https://www.linkedin.com/in/israelpinheiro/" target="blank">
@@ -70,6 +76,6 @@
         <img style="display: block; margin-left: auto;margin-right: auto;" src="https://github-readme-stats.vercel.app/api?username=IsraelPinheiro&show_icons=true&theme=radical&locale=en" alt="IsraelPinheiro"/>
     <a/>
     <a>
-        <img style="display: block; margin-left: auto;margin-right: auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=IsraelPinheiro&show_icons=true&theme=radical&locale=en" alt="IsraelPinheiro"/>
+        <img style="display: block; margin-left: auto;margin-right: auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=IsraelPinheiro&show_icons=true&theme=radical&locale=en&langs_count=5" alt="IsraelPinheiro"/>
     <a/>
 </p>
