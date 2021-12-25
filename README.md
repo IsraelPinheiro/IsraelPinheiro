@@ -17,7 +17,7 @@
 </a>
 
 <h3 style="text-align:left">Languages and Technologies:</h3>
-<p style="align=left">
+<p align="center">
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
         <img src="icons/PHP.svg" alt="PHP" height="45"/>
     </a>
@@ -65,8 +65,11 @@
     </a>
 </p>
 
-<p ><a>
-    <img style="display: block; margin-left: auto;margin-right: auto;" src="https://github-readme-stats.vercel.app/api?username=IsraelPinheiro&show_icons=true&theme=radical&locale=en" alt="IsraelPinheiro"/>
-    <img style="display: block; margin-left: auto;margin-right: auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=IsraelPinheiro&show_icons=true&theme=radical&locale=en" alt="IsraelPinheiro"/>
+<p align="center">
+    <a>
+        <img style="display: block; margin-left: auto;margin-right: auto;" src="https://github-readme-stats.vercel.app/api?username=IsraelPinheiro&show_icons=true&theme=radical&locale=en" alt="IsraelPinheiro"/>
+    <a/>
+    <a>
+        <img style="display: block; margin-left: auto;margin-right: auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=IsraelPinheiro&show_icons=true&theme=radical&locale=en" alt="IsraelPinheiro"/>
     <a/>
 </p>
