@@ -9,8 +9,6 @@
 
 - :rocket: SpaceX Fanboy and diehard space enthusiast
 
-
-
 <h3 style="text-align:left">Get in touch:</h3>
 <a href="https://www.linkedin.com/in/israelpinheiro/" target="blank">
     <img src="icons/LinkedIn.svg" alt="https://www.linkedin.com/in/israelpinheiro" height="55">
@@ -73,7 +71,8 @@
 
 <h3 style="text-align:left">And here are some graphs for people who likes graphs:</h3>
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=IsraelPinheiro&theme=react-dark)
+<img style="display: block; margin-left: auto;margin-right: auto;" src="https://activity-graph.herokuapp.com/graph?username=IsraelPinheiro&theme=react-dark" alt="Activity Graph"/>
+<br>
 
 <p align="center">
     <a>
