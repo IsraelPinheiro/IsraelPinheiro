@@ -79,6 +79,6 @@
         <img style="display: block; margin-left: auto;margin-right: auto;" src="https://github-readme-stats.vercel.app/api?username=IsraelPinheiro&show_icons=true&theme=radical&locale=en&count_private=true" alt="IsraelPinheiro"/>
     <a/>
     <a>
-        <img style="display: block; margin-left: auto;margin-right: auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=IsraelPinheiro&show_icons=true&theme=radical&locale=en&langs_count=4&hide_title=true" alt="IsraelPinheiro"/>
+        <img style="display: block; margin-left: auto;margin-right: auto;" src="https://github-readme-stats.vercel.app/api/top-langs?username=IsraelPinheiro&show_icons=true&theme=radical&locale=en&langs_count=3&hide_title=true" alt="IsraelPinheiro"/>
     <a/>
 </p>
