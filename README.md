@@ -10,13 +10,13 @@
 - :rocket: SpaceX Fanboy and diehard space enthusiast
 
 <h3 style="text-align:left">Get in touch:</h3>
-<a href="https://www.linkedin.com/in/israelpinheiro/" target="blank">
+<a href="https://www.linkedin.com/in/israelpinheiro/" target="_blank">
     <img src="icons/LinkedIn.svg" alt="https://www.linkedin.com/in/israelpinheiro" height="55">
 </a>
-<a href="https://t.me/israelrpinheiro" target="blank">
+<a href="https://t.me/israelrpinheiro" target="_blank">
     <img src="icons/Telegram.svg" alt="https://t.me/israelrpinheiro" height="55">
 </a>
-<a href="https://api.whatsapp.com/send?phone=5585991520250" target="blank">
+<a href="https://api.whatsapp.com/send?phone=5585991520250" target="_blank">
     <img src="icons/Whatsapp.svg" alt="https://api.whatsapp.com/send?phone=5585991520250" height="55">
 </a>
 
