@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Sou Israel Pinheiro <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="50px"</h1>
+<h1 align="center">Olá, Sou Israel Pinheiro <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"</h1>
 
 Rua Cidade Ecológica, 420, Edson Queiroz, Fortaleza/CE, Brasil
 israel.pinheiro@live.com | (85) 99152.0250 | [GitHub](https://github.com/IsraelPinheiro)
