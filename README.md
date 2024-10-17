@@ -48,7 +48,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="45" alt="nestjs logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/nestjs/nestjs-original.svg" height="45" alt="nestjs logo" />
 </div>
 
 <h3 style="text-align: left">And here are some graphs for people who likes graphs:</h3>
@@ -57,3 +57,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IsraelPinheiro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph" />
   <img src="https://streak-stats.demolab.com?user=IsraelPinheiro&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
+
+<h3 style="text-align: left">Projects and Contributions:</h3>
+
+- [Laravel UI Avatars](https://github.com/BlackSheepTech/laravel-ui-avatars) - A Laravel package to generate avatars using the [UI Avatars](https://ui-avatars.com/) API
+- [Laravel Dice Bear](https://github.com/BlackSheepTech/laravel-dice-bear) - A Laravel package to generate avatars using the [DiceBear](https://www.dicebear.com/) API
+- [Laravel IPApi](https://github.com/BlackSheepTech/laravel-ip-api) - A Laravel package to get information about an IP address using the [ip-api](https://ip-api.com/) Service
+- [PHP Insigths](https://github.com/nunomaduro/phpinsights) - Instant PHP quality checks from your console
