@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack developer passionate about technology</h3>
 
 - :earth_americas: Fortaleza/Ceará/Brazil
-- :computer: Currently working with **Laravel**, **NodeJS** and **React**
+- :computer: Currently working with **Laravel** and **NodeJS** at [Simpay](https://br.linkedin.com/company/somossimpay)
 - :envelope: Contact me: **israel.pinheiro@live.com**
 - :rocket: SpaceX Fanboy and diehard space enthusiast
 
@@ -24,24 +24,25 @@
 <h3 style="text-align: left">Languages and Technologies:</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo" />
-  <img width="15" />
+  <img width="20" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="45" alt="laravel logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="45" alt="composer logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45" alt="vuejs logo" />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="45" alt="mysql logo" />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="45" alt="nodejs logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo" />
-  <img width="15" />
+    <img width="20" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/nestjs/nestjs-original.svg" height="45" alt="nestjs logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="45" alt="composer logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45" alt="vuejs logo" />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="45" alt="mysql logo" />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="45" alt="nodejs logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo" />
+
 </div>
 
 <h3 style="text-align: left">And here are some graphs for people who likes graphs:</h3>
