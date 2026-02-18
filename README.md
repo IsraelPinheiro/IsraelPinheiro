@@ -32,7 +32,7 @@
 <h3 style="text-align: left">And here are some graphs for people who likes graphs:</h3>
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=IsraelPinheiro&theme=dark&hide_border=true&border_radius=4.6&short_numbers=true&mode=weekly&card_width=500&card_height=200)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=IsraelPinheiro&theme=github-dark&hide_border=true&border_radius=4.6&short_numbers=true&mode=weekly&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 </div>
 
