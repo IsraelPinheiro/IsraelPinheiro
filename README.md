@@ -8,7 +8,7 @@
 - :envelope: Contact me: **israel.pinheiro@live.com**
 - :rocket: SpaceX Fanboy and diehard space enthusiast
 
-<h3 style="text-align: left">Get in touch:</h3>
+<h3 align="left">Get in touch:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/israelpinheiro/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="45" alt="linkedin logo" />
@@ -21,27 +21,11 @@
   </a>
 </div>
 
-<h3 style="text-align: left">Languages and Technologies:</h3>
+<h3 align="left">Languages and Technologies:</h3>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php" height="45" alt="php logo" />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="45" alt="laravel logo" />
-    <img width="20" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.16.0/icons/nestjs/nestjs-original.svg" height="45" alt="nestjs logo" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="45" alt="composer logo" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="45" alt="vuejs logo" />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="45" alt="mysql logo" />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="45" alt="nodejs logo" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo" />
+
+![Tech Stack](https://skillicons.dev/icons?i=php,laravel,nestjs,py,mysql,postgres,nodejs,js,ts,vue)
 
 </div>
 
